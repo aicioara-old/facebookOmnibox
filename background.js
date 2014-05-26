@@ -19,3 +19,6 @@ function navigate(url) {
 		chrome.tabs.update(tabs[0].id, {url: url});
 	});
 }
+
+
+// document.getElementsByClassName('_586i')[0].focus()
