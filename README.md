@@ -1,12 +1,12 @@
-facebookOmnibox
-===============
+facebookOmnibox - Google Chrome
+===================================
 
-Project status: Under development...
+**` Under development `**
 
 
 Description
 -----------
-Omnibox for faster facebook searches
+Enhance your Google Chrome Omnibox for faster facebook people searches
 
 
 Installation
