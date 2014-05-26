@@ -1,0 +1,10 @@
+{
+	"manifest_version": 2,
+	"name": "Facebook Omnibox",
+	"description" : "To use, type 'fb' then press tab",
+	"version": "1.0",
+	"background": {
+		"scripts": ["background.js"]
+	},
+	"omnibox": { "keyword" : "fb" }
+}

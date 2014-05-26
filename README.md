@@ -18,4 +18,4 @@ Google Chrome -> Settings -> Extensions -> Tick Developer Mode -> Load Unpacked 
 
 Usage
 -----
-Click the URL bar. Type f, press TAB, type the name of your friend.
+Click the URL bar. Type fb, press TAB, type the name of your friend.
