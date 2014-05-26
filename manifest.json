@@ -6,5 +6,11 @@
 	"background": {
 		"scripts": ["background.js"]
 	},
-	"omnibox": { "keyword" : "fb" }
+	"omnibox": { "keyword" : "fb" },
+
+	"permissions": ["tabs", "http://*/*"],
+	"content_scripts" : [{
+		"matches" : [ "https://www.facebook.com/search/*"],
+		"js" : ["openMenu.js"]
+	}]
 }

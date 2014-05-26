@@ -21,4 +21,3 @@ function navigate(url) {
 }
 
 
-// document.getElementsByClassName('_586i')[0].focus()
