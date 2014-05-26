@@ -8,7 +8,7 @@
 	},
 	"omnibox": { "keyword" : "fb" },
 
-	"permissions": ["tabs", "http://*/*"],
+	"permissions": ["http://www.facebook.com/search/*"],
 	"content_scripts" : [{
 		"matches" : [ "https://www.facebook.com/search/*"],
 		"js" : ["openMenu.js"]
